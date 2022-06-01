@@ -1,0 +1,3 @@
+Tipo: Realizar transacción - Hora: 11:00
+Tipo: Realizar transacción - Hora: 11:6
+Tipo: Realizar transacción - Hora: 11:7
